@@ -1,0 +1,7 @@
+{
+  "name": "AI Image Evaluation Interview Prep",
+  "description": "Mobile-first practice and preparation guide for AI image evaluation and annotation interviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
